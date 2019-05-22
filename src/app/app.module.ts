@@ -13,6 +13,7 @@ import { DataComponent } from './components/data/data.component';
     AppComponent,
     TemplateComponent,
     DataComponent
+    /* Agregando comment en el app.module.ts */
   ],
   imports: [
     BrowserModule,
